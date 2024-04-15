@@ -1,0 +1,8 @@
+.heading {
+    color: purple;
+    text-align: right;
+    text-transform: capitalize;
+    text-shadow: 2px 2px;
+    text-decoration: double;
+   background-color: blue;
+}
